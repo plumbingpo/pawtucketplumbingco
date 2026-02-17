@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pawtucketplumbingco.com/sitemap.xml
